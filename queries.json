@@ -1,0 +1,4 @@
+[
+    "SELECT * FROM NearbyPharmacies",
+    "SELECT id FROM NearbyPharmacies"
+]
